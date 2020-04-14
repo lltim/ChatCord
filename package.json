@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Realtim chat app with rooms",
   "main": "server.js",
-  "homepage": "https://lltim.github.io/ChatCord",
+  "homepage": "https://lltim.github.io/ChatCord/index.html",
   "scripts": {
     "start": "node server",
     "dev": "nodemon server",
